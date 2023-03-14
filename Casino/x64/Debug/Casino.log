@@ -1,5 +1,3 @@
 ﻿  Casino.cpp
-C:\Users\Denis\Desktop\Учеба\программы 2 курс\Casino\Casino\Casino.cpp(52,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-C:\Users\Denis\Desktop\Учеба\программы 2 курс\Casino\Casino\Casino.cpp(53,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Denis\Desktop\Учеба\программы 2 курс\Casino\Casino\Casino.cpp(49): warning C4715: game: значение возвращается не при всех путях выполнения
-  Casino.vcxproj -> C:\Users\Denis\Desktop\Учеба\программы 2 курс\Casino\x64\Debug\Casino.exe
+C:\Users\denis\OneDrive\Рабочий стол\Программы\программы 2 курс\casino_RW\Casino\Casino.cpp(53,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Casino.vcxproj -> C:\Users\denis\OneDrive\Рабочий стол\Программы\программы 2 курс\casino_RW\x64\Debug\Casino.exe
